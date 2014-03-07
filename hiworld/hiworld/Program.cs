@@ -7,6 +7,7 @@ namespace hiworld
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hi World!");
+			Console.WriteLine ("Let it go");
 		}
 	}
 }
