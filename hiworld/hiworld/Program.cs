@@ -8,6 +8,7 @@ namespace hiworld
 		{
 			Console.WriteLine ("Hi World!");
 			Console.WriteLine ("Let it go");
+			Console.WriteLine ("***");
 		}
 	}
 }
